@@ -1,0 +1,2 @@
+
+OOP kavramını açarak tanımlayacak olursam Object Oriented Programming (OOP) yani Nesneye yönelik programlama (NYP) şeklinde tanımlayabilirim. Java OOP, yazılım içerisindeki karmaşıklığı ortadan kaldırabilmek için 1960’lı yılların sonlarında ortaya çıkan bir yaklaşım türüdür. Yazılım içerisinde, Nesneye yönelik programlama ile yazdığımız programlarımızı daha rahat kontrol edebilir hale geldik. Geniş çaplı programlarda ortaya çıkan bir hata sonucunda hatayı tetikleyen kod bloğunu, programı parçalara böldüğümüz için daha rahat bulabilir hale geldik.
